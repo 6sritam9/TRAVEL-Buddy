@@ -3,4 +3,4 @@ TRAVEL Buddy is a hotel booking web.Which provides services like room booking, p
 
 # Working on it
 
-Soon it wil lbe availble
+Soon it will be availble
